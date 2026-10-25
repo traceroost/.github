@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: TraceRoost bug or feature request
+    url: https://github.com/traceroost/core/issues/new/choose
+    about: Most issues belong in traceroost/core — the collector, dashboard, CLI, extension and desktop app.
+  - name: Documentation
+    url: https://docs.traceroost.com
+    about: Installing, connecting agents, configuration and TraceRoost Cloud.
+  - name: Report a security vulnerability
+    url: https://github.com/traceroost/.github/blob/main/SECURITY.md
+    about: Please report security issues privately, not in a public issue.
